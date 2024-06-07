@@ -1,4 +1,8 @@
 # پروژه درس کامپایلر
+## VSCode extension for syntax highlighting
+
+[Yash](https://marketplace.visualstudio.com/items?itemName=daohong-emilio.yash)
+
 ## FLEX
 ### منابع یادگیری:
 - [SILCNITC: Using LEX](https://silcnitc.github.io/lex.html)
